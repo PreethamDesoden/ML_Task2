@@ -1,5 +1,17 @@
 # Sentiment Analysis with NLP
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : PREETHAM B
+
+*INTERN ID* : CT12WM72
+
+*DOMAIN* : MACHINE LEARNING 
+
+*DURATION* : 12 WEEKS
+
+*MENTOR* : NEELA SANTOSH 
+
 ## Introduction
 
 This project focuses on **Sentiment Analysis** of customer reviews using **Natural Language Processing (NLP)** techniques. The goal is to classify reviews as **positive (1)** or **negative (0)** based on textual data. We utilize **TF-IDF Vectorization** to convert text into numerical form and apply **Logistic Regression** for classification.

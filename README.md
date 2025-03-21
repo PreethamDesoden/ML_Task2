@@ -28,7 +28,7 @@ This project focuses on **Sentiment Analysis** of customer reviews using **Natur
 
 ## Dataset
 
-The dataset consists of customer reviews(I've used Flipkart_Product reviews from kaggke) with attributes:
+The dataset consists of customer reviews(I've used Flipkart_Product reviews from kaggle) with attributes:
 - **Review**: The actual customer feedback.
 - **Rate**: The numerical rating (1 to 5).
 - **Sentiment**: The derived sentiment label (**1 for positive, 0 for negative**).

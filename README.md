@@ -88,7 +88,6 @@ This project successfully performed **Sentiment Analysis** on customer reviews, 
 
 ## Output
 
-![Image](https://github.com/user-attachments/assets/ac339a33-a7c4-43f0-b196-7b6601b1d537)
-![Image](https://github.com/user-attachments/assets/df1da617-a144-490a-9e94-8695603f57df)
+
 
 

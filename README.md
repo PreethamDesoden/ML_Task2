@@ -86,4 +86,9 @@ The dataset consists of customer reviews(I've used Flipkart_Product reviews from
 
 This project successfully performed **Sentiment Analysis** on customer reviews, achieving a high accuracy of **96.65%** using **TF-IDF** and **Logistic Regression**. The results demonstrate the effectiveness of NLP techniques in extracting valuable insights from textual data.
 
+## Output
+
+![Image](https://github.com/user-attachments/assets/ac339a33-a7c4-43f0-b196-7b6601b1d537)
+![Image](https://github.com/user-attachments/assets/df1da617-a144-490a-9e94-8695603f57df)
+
 
